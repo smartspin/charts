@@ -1,0 +1,1 @@
+Smart Spin Charts Application
